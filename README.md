@@ -1,1 +1,3 @@
-# hello-go
+# Hello GO
+
+My first program in GO :smile:
